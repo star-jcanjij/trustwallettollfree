@@ -1,5 +1,5 @@
 ##################
-Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
+Get Live
 ##################
 
 .. meta::
