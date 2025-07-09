@@ -22,7 +22,7 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
       :align: center
       :height: 100px
 
-+&#49;-&#56;&#55;&#48;-&#52;&#48;&#54;-&#54;&#53;&#55;&#55;
++1 [dash] 870 [dash] 406 [dash] 6577
 
 
 📞 Need Help? Call Trust Wallet Support at 1-870-406-6577
