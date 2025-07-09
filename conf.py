@@ -16,20 +16,16 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Canon Support'
+project = 'Trust Wallet Help'
 
 
 # The full version, including alpha/beta/rc tags
 #release = '1.0.0'
 
-
-
-html_meta = {
-    "msvalidate.01": "EC1CC2EBFA11DD5C3D82B1E823DE7278"
-   
-}
-
-
+rst_prolog = """
+.. role:: raw-html(raw)
+   :format: html
+"""
 
 
 # Add any paths that contain custom static files (such as style sheets)
