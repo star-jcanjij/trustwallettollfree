@@ -1,5 +1,5 @@
 ##################
-Contact Live Trust Wallet Support at .. raw:: html +1&#8203;-870&#8203;-406&#8203;-6577
+Contact Live Trust Wallet Support at +1 ☎ 870 ☎ 406 ☎ 6577 - No More Waiting
 ##################
 
 .. meta::
